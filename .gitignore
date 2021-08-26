@@ -1,0 +1,8 @@
+*_con*.fasta
+create_sim_data_test.sh
+experimental_design_1.tsv
+*.toppas
+output/
+TOPPAS.log
+*.mzML
+Human_database_including_decoys_(cRAP_added).fasta
